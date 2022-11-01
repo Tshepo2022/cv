@@ -36,7 +36,7 @@ body{
 }
 
 .download-template:hover{
-    background-color: #fb5ec4;
+    background-color: #db1c98;
 }
 
 .gradient{
@@ -71,14 +71,14 @@ body{
   border-radius: 2em;
  }
 
-.cv-block.block-intro .avatar{
-    width: 150px;
-    height: 150px;
+.cv-block.block-intro .T.Tebe{
+    width: -100px;
+    height: -100px;
     background-size: cover;
     background-repeat: no-repeat;
     margin: auto;
-    border-radius: 100px;
-    margin-bottom: 30px;
+    border-radius: -30px;
+    margin-bottom: -30px;
 }
 
 .cv-block.info{
@@ -108,13 +108,13 @@ body{
     float: none;
     font-weight: bold;
     margin-top: 4px;
-    color: #6c757d;
+    color: #0923e8d2;
     opacity: 0.8;
 }
 
 .cv-block.info .group .organization{
     font-size: 0.85em;
-    background-color: #0ea0ff;
+    background-color: #0d5af3a9;
     display: inline-block;
     color: #fff;
     padding: 2px 8px;
@@ -122,7 +122,7 @@ body{
 }
 
 .cv-block.info .education.group .organization{
-    background-color: #20c997; 
+    background-color: #22f7b7d0; 
 }
 
 .cv-block.info .group .item{
@@ -212,9 +212,9 @@ body{
     border-radius: 50%;
     width: 36px;
     display: inline-block;
-    height: 36px;
+    height: 22px;
     text-align: center;
-    background-color: #c5c9d2;
+    background-color: #5b7dcb;
     line-height: 34px;
 }
 
