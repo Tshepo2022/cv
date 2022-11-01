@@ -82,6 +82,7 @@ body{
 }
 .img-fluid{
     width: 20rem;
+    margin-bottom: 5rem;
 }
 
 .cv-block.info{
