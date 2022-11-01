@@ -71,7 +71,7 @@ body{
   border-radius: 2em;
  }
 
-.cv-block.block-intro .T.Tebe{
+.cv-block.block-intro{
     width: -100px;
     height: -100px;
     background-size: cover;
@@ -79,6 +79,9 @@ body{
     margin: auto;
     border-radius: -30px;
     margin-bottom: -30px;
+}
+.img-fluid{
+    width: 20rem;
 }
 
 .cv-block.info{
