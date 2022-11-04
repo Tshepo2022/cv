@@ -163,10 +163,11 @@ body{
     bottom: 4px;
 }
 
-/* .cv-block .info-card.contact-info h4{
+.cv-block .info-card.contact-info h4{
     margin-top: 25px;
     font-size: 1rem;
-    font-weight: bold; */
+    font-weight: bold;
+}
 
 .cv-block.info .hobbies p{
     max-width: 700px;
