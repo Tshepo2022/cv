@@ -168,6 +168,7 @@ body {
     margin-top: 25px;
     font-size: 1rem;
     font-weight: bold;
+    text-align: center;
 }
 
 .cv-block.info .hobbies p {
@@ -244,15 +245,20 @@ body {
 /*----------------------------------------------
 # Contact
 --------------------------------------------*/
-.contact {
+#contact {
+    display: flex;
+    width: 500px;
+    margin-left: 45%;
     padding-bottom: 130px;
 }
+
 
 .contact .info {
     padding: 30px;
     background: #fff;
     width: 100%;
     box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+    text-align: center;
 }
 
 .contact .info i {
@@ -275,6 +281,7 @@ body {
     font-weight: 600;
     margin-bottom: 5px;
     color: #050d18;
+    text-align: center;
 }
 
 .contact .info p {
@@ -282,14 +289,18 @@ body {
     margin-bottom: 20px;
     font-size: 14px;
     color: #01050a;
+    margin-left: 35rem;
+    text-align: center;
 }
 
 .contact .info .email p {
     padding-top: 5px;
+    text-align: center;
 }
 
 .contact .info .social-links {
     padding-left: 60px;
+    text-align: center;
 }
 
 .contact .info .social-links a {
@@ -317,6 +328,7 @@ body {
 .contact .info .phone:hover i {
     background: #149ddd;
     color: #fff;
+    text-align: center;
 }
 
 .contact .php-email-form {
