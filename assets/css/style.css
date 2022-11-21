@@ -245,10 +245,14 @@ body {
 /*----------------------------------------------
 # Contact
 --------------------------------------------*/
+
+iframe{
+    margin-left: -8rem;
+}
 #contact {
     display: flex;
     width: 500px;
-    margin-left: 45%;
+    margin-left: 44%;
     padding-bottom: 130px;
 }
 
