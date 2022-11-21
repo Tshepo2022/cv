@@ -201,15 +201,15 @@ body {
 }
 
 .page-footer .social-icons a {
-    font-size: 18px;
+    font-size: 20px;
     margin: 0 3px;
     color: #ffffff;
     border: 1px solid;
     opacity: 0.75;
     border-radius: 50%;
-    width: 36px;
+    width: 35px;
     display: inline-block;
-    height: 22px;
+    height: 30px;
     text-align: center;
     background-color: #5b7dcb;
     line-height: 34px;
