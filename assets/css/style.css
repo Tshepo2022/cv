@@ -470,7 +470,12 @@ iframe{
   margin-top: 1rem;
 }
  .pic1 {
-      margin-top: 10rem;
+      margin-top: 0rem;
+  }
+
+  h2
+  {
+    margin: 5px;
   }
 
   /* /================
@@ -484,7 +489,7 @@ iframe{
     margin-top: -5.5rem;
     color: #149ddd;
   }
-.container1 > h4{
+ .container1 > h4{
   margin-left: 17.1rem;
   margin-top: 0rem;
   font-size: 1rem;
@@ -538,4 +543,5 @@ iframe{
   .pic1, .pic2, .pic3, .pic4{
     border-radius: 50rem;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+
   }
