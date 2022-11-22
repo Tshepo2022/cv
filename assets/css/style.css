@@ -456,3 +456,86 @@ iframe{
         transform: rotate(360deg);
     }
 }
+
+/* /*================
+  Container1 Hardy
+  ==================
+  / */
+
+.container1 > h2 {
+  margin-left: 0rem;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #149ddd;
+  margin-top: 0.3rem;
+}
+ .pic1 {
+      margin-top: 1rem;
+  }
+
+  /* /================
+  Container1 Matshepo
+  ==================
+  / */
+  .container1 > h3{
+    margin-left: 16.7rem;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: -5.5rem;
+    color: #149ddd;
+  }
+.container1 > h4{
+  margin-left: 17.1rem;
+  margin-top: 0rem;
+  font-size: 1rem;
+}
+
+.pic2{
+  margin-left: 18rem;
+  margin-top: -15.7rem;
+}
+
+/* /================
+  Container1 Chezy
+  ==================
+  / */
+.container1 > h5{
+  margin-left: 36.8rem;
+  margin-top: -5.6rem;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #149ddd;
+}
+.container1 > h6{
+  margin-left: 37.2rem;
+}
+
+.pic3{
+  margin-left: 36rem;
+  margin-top: -16.3rem;
+}
+/* /================
+  Container1 Qinisani
+  ==================
+  */ 
+
+  .container2 > h1 {
+    margin-left: 54rem;
+    margin-top: -6rem;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #149ddd;
+  }
+  .container2 > h2{
+   margin-left: 53.1rem;
+   font-size: 1rem;
+  }
+
+  .pic4{
+    margin-left: 53rem;
+    margin-top: -17.3rem;
+  }
+  .pic1, .pic2, .pic3, .pic4{
+    border-radius: 50rem;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  }
