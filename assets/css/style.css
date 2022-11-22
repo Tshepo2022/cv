@@ -467,10 +467,10 @@ iframe{
   font-size: 1rem;
   font-weight: bold;
   color: #149ddd;
-  margin-top: 0.2rem;
+  margin-top: 1rem;
 }
  .pic1 {
-      margin-top: 1rem;
+      margin-top: 10rem;
   }
 
   /* /================
@@ -490,7 +490,7 @@ iframe{
   font-size: 1rem;
 }
 
-.pic2{
+ .pic2 {
   margin-left: 18rem;
   margin-top: -15.7rem;
 }
